@@ -20,6 +20,7 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 **Team The Outsiders** [Introduction](theoutiders.md)
 
+<br> </br>
 
 # Resources
 
