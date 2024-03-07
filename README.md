@@ -30,6 +30,7 @@ This course presents both *theory* and *practice* so that you may come to an und
 12. Upload that file to this Git Repository
 13. When your team members all add the same file, you will see the document merging as different versions. Lets discuss this.
 14. Edit this page to add a link to your introduction page
+15. Eventually you will run into situations where Markdown can't do what you want... if we have time, we'll touch on HTML & CSS.
   
 Now we can begin connecting our various documents and seeing how other teams are progressing! As a team, decide how you will structure your documentation for the easiest navigation. Will you have many pages on different topics or use different dates and include a table of contents? Will you use a variety of headings and subheadings? 
 
