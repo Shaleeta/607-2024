@@ -19,4 +19,4 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 **Team Little Duck** [Little Intro-duck-tion](LittleDuck.md)
 
-**Team...**
+**Team The Outsiders** [Introduction](theoutiders.md)
