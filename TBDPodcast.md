@@ -11,7 +11,8 @@ TBD Podcast are going to make a short five minute introductory podcast on the th
 - [x] Create Repository 
 - [x] Write Introduction
 - [x] Choose date(s) to record (March 23rd) 
-- [x] Create Google doc to track notes/progress (https://docs.google.com/document/d/1wKqAWS8fh4DGoO0PELuPed_d3MSZxlmtmH4egvL7T3I/edit?usp=sharing)
+- [x] Create [Google doc](https://docs.google.com/document/d/1wKqAWS8fh4DGoO0PELuPed_d3MSZxlmtmH4egvL7T3I/edit?usp=sharing) to track notes/progress
+
 Established page on the repository. Selected theme and name for podcast as well as content ideas for the production.
 
 **What Will the Podcast Include?**
