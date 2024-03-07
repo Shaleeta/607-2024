@@ -23,4 +23,7 @@ Established page on the repository. I selected my book and determined what porti
 ## Week 2 - 
 
 - [ ] Begin Recording
-- [ ] Determine background music 
+- [ ] Determine background music
+- [ ] Start Audiobook cover
+
+I have started a [Pinterest board](https://www.pinterest.ca/emilymcgovern20/cover-ideas-audiobook/) for inspiration and old covers for this story to try and create something more engaging and perhaps more 80s fantasy esque. 
