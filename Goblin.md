@@ -5,9 +5,9 @@ Pub 607 - Audiobook Project - Emily
 
 Members: **Emily** 😃
 
-Book: *The Princess and the Goblin* 
+Book: *The Princess and the Goblin* by George MacDonald 
 
-I am team Goblin I am going to be making an interactive audiobook for [The Princess and the Goblin](https://www.gutenberg.org/cache/epub/708/pg708-images.html) by George MacDonald. The tale follows a princess and a cast of goblins who hate poetry. 
+I am team **Goblin** I am going to be making an interactive audiobook for [The Princess and the Goblin](https://www.gutenberg.org/cache/epub/708/pg708-images.html) by George MacDonald. The tale follows a princess and a cast of goblins who hate poetry. 
 
 For this project, I have hopes to make an interactive audiobook similar to Webtoons that have background music and voice acting while also being easy to follow as it is a children's fairy tale.
 
@@ -20,7 +20,7 @@ For this project, I have hopes to make an interactive audiobook similar to Webto
 
 Established page on the repository. I selected my book and determined what portion I would be recording. I need to format this into a script for reading so my brother can do the recording for it. I also downloaded Audacity as my recording software. 
 
-I received my equipment as well. I'm hoping to do my recording over the weekend so that I can begin working on the background sounds and music.  
+I received my equipment as well. I'm hoping to do my recording over the weekend so that I can begin working on the background sounds and music. My plan for over the weekend is to complete my recording and start my audiobook cover. 
 
 ## Week 2 - 
 
