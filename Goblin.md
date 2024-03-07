@@ -15,10 +15,10 @@ For this project, I have hopes to make an interactive audiobook similar to Webto
 ## Week 1 - March 7th
 
 - [x] Create Repository 
-- [ ] Update Repository 
-- [ ] Write Introduction
+- [x] Update Repository 
+- [x] Write Introduction
 
-
+Established page on the repository. I selected my book and determined what portion I would be recording. I need to format this into a script for reading so my brother can do the recording for it. I also downloaded audacity as my recording software. 
 
 ## Week 2 - 
 
