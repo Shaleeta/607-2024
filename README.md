@@ -20,3 +20,14 @@ This course presents both *theory* and *practice* so that you may come to an und
 **Team Little Duck** [Little Intro-duck-tion](LittleDuck.md)
 
 **Team The Outsiders** [Introduction](theoutiders.md)
+
+
+# Resources
+
+[**Schedule**](Shedule.md)
+
+[**Lecture 1**](Lecture1.md)
+
+[**Documentation**](documentation.md)
+
+[**March 7 GitHub Lab**](March7.md)
