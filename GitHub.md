@@ -1,5 +1,15 @@
-## Turning on GitHub Pages
+# Creating Your Own Github Repository/Pages
+- Register an account at github.com
+- Extra Optional: Download Github Desktop for your laptop
+- Start a new repository
+- Add your teammates as collaborators.
+- Teammates should now, using Github Desktop, "Add a repo" using the "Clone repository" option, and choose the project repository set up above.
+- Now everyone has an identical copy.
+- Use the repository folder on your laptop to host working files -- Commit and Push your changes 
 
+In the Settings, turn on pages (more on that below) which will make your repo readable like a website.
+
+## Turning on GitHub Pages
 We're assuming that you have an account on [Github](https://github.com/) and on that account, a repository. If you don't, and need a hand creating an account, tell us! Pages is a feature that automatically renders your documents as html (webpages), basically allowing you to create a website from the documents you have in the repository!
 
   1. Navigate to the main page of your repository 
