@@ -13,6 +13,8 @@ For this project, I have hopes to make an interactive audiobook similar to Webto
 
 --- 
 
+# Documentation Record
+
 ## Week 1 - March 7th
 
 - [x] Create Repository 
