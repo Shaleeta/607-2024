@@ -9,7 +9,6 @@ TBD Podcast are going to make a short five minute introductory podcast on the th
 ### Week 1 - March 7th
 
 - [x] Create Repository 
-- [x] Update Repository 
 - [x] Write Introduction
 
 Established page on the repository. Selected theme and name for podcast as well as content ideas for the production.
