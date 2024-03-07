@@ -3,7 +3,7 @@ Pub 607 - Audiobook Project - Emily
 
 # Team: Goblin 
 
-Members: *Emily* 
+Members: **Emily** 
 
 Book: *The Princess and the Goblin* 
 
@@ -14,4 +14,4 @@ For this project, I have hopes to make an interactive audiobook similar to Webto
 
 # March 7th
 
-- 
+- Repository created 
