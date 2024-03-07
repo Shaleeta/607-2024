@@ -17,3 +17,10 @@ For this project, I have hopes to make an interactive audiobook similar to Webto
 - [x] Create Repository 
 - [ ] Update Repository 
 - [ ] Write Introduction
+
+
+
+## Week 2 - 
+
+- [ ] Begin Recording
+- [ ] Determine background music 
