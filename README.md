@@ -15,12 +15,32 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 **Team ...**
 
-**Team ... **
+**Team ...**
 
-**Team... **
+**Team...**
 
-Create an introduction page for your team with a heading, your team name, and a brief description of your project. Use a few text formatting methods in Markdown. Add a link to that page above so we can begin connecting our various documents and seeing how other teams are progressing! As a team, decide how you will structure your documentation for the easiest navigation. Will you have many pages on different topics or use different dates and include a table of contents? Will you use a variety of headings and subheadings? 
+1. Download and run Sublime Text
+3. Open a new document, and save it as a .md (Markdown) file
+6. Create an introduction page for your team in Sublime Text
+7. Try out markdown formatting (heading levels, text treatment, etc.)
+9. Add a brief description of your project and the names of your team members
+10. Choose a team name, and save the file as -team name.md-
+11. Upload that file to this Git Repository
+12. When your team members all add the same file, you will see the document merging as different versions. Lets discuss this.
+13. Edit this page to add a link to your introduction page
+  
+Now we can begin connecting our various documents and seeing how other teams are progressing! As a team, decide how you will structure your documentation for the easiest navigation. Will you have many pages on different topics or use different dates and include a table of contents? Will you use a variety of headings and subheadings? 
 
+I recommend writing your new documentation locally using Sublime Text (for the same reasons you wouldn't write a post in WordPress) but after uploading, you can edit directly in the program. Continue documenting the whole process in as much detail as possible. 
+
+## Documentation Principles
+1. Be clear, concise, and accurate
+2. Include as much detail as possible
+3. Add visuals whenever you can
+4. Use structure and organization
+5. Be consistent
+6. Revise and reference previous comments when possible
+7. Involve others
 
 
 
