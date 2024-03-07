@@ -1,11 +1,13 @@
 # Audiobook Project 
 Pub 607 - Audiobook Project - Emily
 
+---
+
 ### Team: Goblin 
 
-Members: **Emily** 😃
+**Members:** Emily 😃
 
-Book: *The Princess and the Goblin* by George MacDonald 
+**Book:** *The Princess and the Goblin* by George MacDonald 
 
 I am team **Goblin** I am going to be making an interactive audiobook for [The Princess and the Goblin](https://www.gutenberg.org/cache/epub/708/pg708-images.html) by George MacDonald. The tale follows a princess and a cast of goblins who hate poetry. 
 
