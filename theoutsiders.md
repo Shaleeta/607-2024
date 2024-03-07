@@ -1,8 +1,10 @@
 # THE OUTSIDERS #
 We are a group of international students creating an audiobook based on translated short stories from our home countries: Banglhadesh, Brazil and Mexico.
+*Excited to see what's coming next.* 
 
 ## TEAM ##
 ### Bithi ###
+My name is Bithi. I am a graphic designer and illustrator from a beautiful south asian country called Bangladesh. I have a masters degree in Graphic Design with a focus on publicity and promotion. In my free time I love travelling, trying different cuisin with my friends and I am a happy learner.
 
 ### Carolina ###
 I am a Brazilian graduate student, with a BA in Portuguese and English with a teaching certificate from Universidade Federal da Bahia, and a BA in English Language and Literature from Universidade Federal da Bahia. I am interested in producing criative audiobooks and putting my experience in creating audiobooks based on radio plays to use. 
