@@ -9,6 +9,8 @@ Welcome to PUB 607, in which we will cover **Digital Production Fundamentals** f
 
 This course presents both *theory* and *practice* so that you may come to an understanding of *why* production should be done this way. The fundamental learning approach in PUB 607 is working with simple technologies and playing with production techniques to become comfortable and confident with technology as a whole.
 
+[Here is the link to the 2023 GitHub repository.](https://github.com/jmaxsfu/pub607-23/blob/main/README.md)
+
 # Table of Contents:
 
 **Team ...** [Link to File](Goblin.md)
