@@ -14,4 +14,6 @@ For this project, I have hopes to make an interactive audiobook similar to Webto
 
 # March 7th
 
-- Repository created 
+- [x] Create Repository 
+- [ ] Update Repository 
+- [ ] Write Introduction
