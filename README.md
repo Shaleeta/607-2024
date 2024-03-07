@@ -9,7 +9,7 @@ Welcome to PUB 607, in which we will cover **Digital Production Fundamentals** f
 
 This course presents both *theory* and *practice* so that you may come to an understanding of *why* production should be done this way. The fundamental learning approach in PUB 607 is working with simple technologies and playing with production techniques to become comfortable and confident with technology as a whole.
 
-# Team Documentation 
+# Table of Contents:
 
 **Team ...**
 
@@ -19,15 +19,17 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 **Team...**
 
+# Directions for March 7 
 1. Download and run Sublime Text
 3. Open a new document, and save it as a .md (Markdown) file
 6. Create an introduction page for your team in Sublime Text
 7. Try out markdown formatting (heading levels, text treatment, etc.)
 9. Add a brief description of your project and the names of your team members
 10. Choose a team name, and save the file as -team name.md-
-11. Upload that file to this Git Repository
-12. When your team members all add the same file, you will see the document merging as different versions. Lets discuss this.
-13. Edit this page to add a link to your introduction page
+11. Create an account on github.com and join this repository as a collaborator
+12. Upload that file to this Git Repository
+13. When your team members all add the same file, you will see the document merging as different versions. Lets discuss this.
+14. Edit this page to add a link to your introduction page
   
 Now we can begin connecting our various documents and seeing how other teams are progressing! As a team, decide how you will structure your documentation for the easiest navigation. Will you have many pages on different topics or use different dates and include a table of contents? Will you use a variety of headings and subheadings? 
 
