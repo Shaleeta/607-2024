@@ -18,7 +18,9 @@ For this project, I have hopes to make an interactive audiobook similar to Webto
 - [x] Update Repository 
 - [x] Write Introduction
 
-Established page on the repository. I selected my book and determined what portion I would be recording. I need to format this into a script for reading so my brother can do the recording for it. I also downloaded audacity as my recording software. 
+Established page on the repository. I selected my book and determined what portion I would be recording. I need to format this into a script for reading so my brother can do the recording for it. I also downloaded Audacity as my recording software. 
+
+I received my equipment as well. I'm hoping to do my recording over the weekend so that I can begin working on the background sounds and music.  
 
 ## Week 2 - 
 
