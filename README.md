@@ -13,7 +13,7 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 # Table of Contents:
 
-**Team ...** [Link to File](Goblin.md)
+**Team Goblin** [Goblin](Goblin.md)
 
 **Team TBD Podcast** [TBD Podcast Page](TBDPodcast.md)
 
