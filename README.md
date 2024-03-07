@@ -23,7 +23,7 @@ This course presents both *theory* and *practice* so that you may come to an und
 1. Download and run Sublime Text
 3. Open a new document, and save it as a .md (Markdown) file
 6. Create an introduction page for your team in Sublime Text
-7. Try out markdown formatting (heading levels, text treatment, etc.)
+7. Try out [markdown formatting](https://www.markdownguide.org/cheat-sheet/) (heading levels, text treatment, etc.)
 9. Add a brief description of your project and the names of your team members
 10. Choose a team name, and save the file as -team name.md-
 11. Create an account on github.com and join this repository as a collaborator
