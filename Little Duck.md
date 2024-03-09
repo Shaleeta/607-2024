@@ -2,31 +2,43 @@
 ## Team Name: Little Duck
 
 My team members are Moira.
-I will be creating an audiobook version of the fairy tale "The Tiger's Bride" by Angela Carter. It's available for free on JSTOR.
-The short story tells of a girl who's father wagered her hand in marriage to a tiger during a game of cards. I originally read it as part of a class on fairy tales during my undergrad. We read a few stories by Angela Carter, who has written several feminist retellings of classic folktales. Another favourite of mine by her is "The Werewolf." Both of these stories are from her anthology book, *The Bloody Chamber*.
+I'm doing an audiobook version of the fairy tale "The Tiger's Bride" by Angela Carter. It's available for free on JSTOR, which is handy.
 
 ___
 
 ### The Plan
-**Week of March 5th:**
+**Week of March 5th**
 Decide on a short story to record in audio format.
 Print out short story and begin practicing, marking up, etc. for performance.
 
-**Week of March 12th:**
+**Week of March 12th**
 Receive audio recording equipment from Shaleeta.
 Record audio.
 
-**Week of March 19th:**
+**Week of March 19th**
 Edit audio recording.
 
-**Week of March 26th:**
+**Week of March 26th**
 Edit audio recording.
 Make audiobook cover.
 
-**Week of April 2nd:**
+**Week of April 2nd**
 Finish audiobook metadata.
 Create download Page.
 Create presentation.
 
-**April 11th:**
+**April 11th**
 Project due!
+
+
+# Journal Entry - March 8th, 2024
+
+Found a text copy online of "The Tiger's Bride" and copied it into a doc. Formatted it and printed it so I can make notes, markup, etc. on it. Formatted it double space, 12 pt font with large paragraph breaks so it will be easy to read. Added page numbers so that I know at a glance if the pages are out of order.
+Then, spent some time making the cover for the audiobook. I'm pretty happy with how it turned out, and since this isn't a design assignment, I'm not gonna worry about it anymore now that it's done.
+I also bought these really cute headphones. They were only $40, and they aren't fantatic or anything. The reason I got them is because they have light up cat ears on them! I needed new headphones anyways, so this project gave me a good excuse to get these stupid things. I love them so much.
+
+### Next Steps
+Practice. Practice. Practice.
+Keep a pencil in hand while I practice so that I can make notes on the script as I go.
+Maybe find a second reader for different voices? I like the idea of having a male voice as well as a female one, but I'm not sure who I would ask. My dad might be into it. He's a good storyteller.
+I'm hoping to start recording next week.
