@@ -33,4 +33,4 @@ I received my equipment as well. I'm hoping to do my recording over the weekend 
 - [ ] Determine background music
 - [ ] Start Audiobook cover
 
-I have started a [Pinterest board](https://www.pinterest.ca/emilymcgovern20/cover-ideas-audiobook/) for inspiration and old covers for this story to try and create something more engaging and perhaps more 80s fantasy-esque.
+I have started a [Pinterest board](https://www.pinterest.ca/emilymcgovern20/cover-ideas-audiobook/) for inspiration and old covers for this story to try and create something more engaging and perhaps more 80s fantasy-esque. I have also been looking at background music for my audiobook using royalty-free music.
