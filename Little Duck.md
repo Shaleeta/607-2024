@@ -42,3 +42,9 @@ Practice. Practice. Practice.
 Keep a pencil in hand while I practice so that I can make notes on the script as I go.
 Maybe find a second reader for different voices? I like the idea of having a male voice as well as a female one, but I'm not sure who I would ask. My dad might be into it. He's a good storyteller.
 I'm hoping to start recording next week.
+
+
+# Journal Entry - March 9th, 2024
+Ugggghhhh. I'm changing which story I'm going to read for my audiobook. I was going to do "The Tiger's Bride" but it's pretty long and I'd rather not do only part of it since it's already a short story. So, I'm going to look at "The Werewolf," also by Carter, or maybe I'll narrate one of my own short stories, which could be fun.
+
+I've decided to do an audiobook version of one if my short stories since I think "The Werewolf" would be too short. Now I just need to decide which of my own stories I want to do.
