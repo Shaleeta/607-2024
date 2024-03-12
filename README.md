@@ -39,7 +39,7 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 ## Audio Resources
 
-[**Audacity Guide**](audioguide.md)
+[**Audacity Guide**](https://github.com/jmaxsfu/pub607-23/blob/main/DAW.md#shure-sm58)
 
 [**Zoom Guide**](zoom.md)
 
