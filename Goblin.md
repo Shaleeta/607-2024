@@ -44,3 +44,7 @@ I have started my audiobook cover. I've decided I want to stay true to the old a
 ### March 12th 
 
 Today in class the focus was on audio and recording. I have mostly finished my audiobook cover for the time being but I will be sending it to Mauve to look over the fonts that I chose. For the fonts I found them on [Fontspace](https://www.fontspace.com/category/fantasy) and used "fantasy" as my prompt. 
+
+
+![first cover](https://github.com/Shaleeta/607-2024/assets/162380787/cec2117e-1952-4a0f-95b3-740544adf6cc)
+
