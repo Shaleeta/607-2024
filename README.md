@@ -13,9 +13,9 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 # Table of Contents:
 
-**Team Goblin** [Goblin](Goblin.md)
+**Team [Goblin](Goblin.md)**
 
-**Team TBD Podcast** [TBD Podcast Page](TBDPodcast.md)
+**Team [TBD Podcast Page](TBDPodcast.md)**
 
 **Team Little Duck** [Little Intro-duck-tion](LittleDuck.md)
 
