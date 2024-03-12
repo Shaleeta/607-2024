@@ -27,7 +27,7 @@ Established page on the repository. I selected my book and determined what porti
 
 I received my equipment as well. I'm hoping to do my recording over the weekend so that I can begin working on the background sounds and music. My plan for over the weekend is to complete my recording and start my audiobook cover. 
 
-## Week 2 - 
+## Week 2 - March 12th
 
 - [ ] Begin Recording
 - [ ] Determine background music
