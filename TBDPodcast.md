@@ -18,3 +18,10 @@ Established page on the repository. Selected theme and name for podcast as well 
 **What Will the Podcast Include?**
 For our first episode will include discussion of two recent releases. Kirstin and Rebecca will each select a title to judge by the cover! Our first episode will also include one *paid* advertisement by a yet to be decided bookstore!
 
+### Week 2 - March 12th
+
+- [ ] Choose titles to review
+- [ ] Write intro script for podcast
+- [ ] Write ad script
+      
+
