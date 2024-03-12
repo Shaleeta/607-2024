@@ -39,3 +39,8 @@ I have started a [Pinterest board](https://www.pinterest.ca/emilymcgovern20/cove
 - Today I looked at royalty-free music and found a few playlists that I feel match the theme and emotion of the story I will be reading. I found some on [Spotify](https://open.spotify.com/playlist/3ac7KKFi3O1pnBzVPtj7SB) and on YouTube here.
 
 I have started my audiobook cover. I've decided I want to stay true to the old aesthetic of The Princess and the Goblin. I'll be making my cover in Photoshop as it's what I'm most familiar with. 
+
+
+### March 12th 
+
+Today in class the focus was on audio and recording. I have mostly finished my audiobook cover for the time being but I will be sending it to Mauve to look over the fonts that I chose. For the fonts I found them on [Fontspace](https://www.fontspace.com/category/fantasy) and used "fantasy" as my prompt. 
