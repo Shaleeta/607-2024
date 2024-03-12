@@ -2,7 +2,7 @@
 
 - The application of knowledge for practical purposes, especially in a reproducible way and in a specific industry. It can also be the products (tools, machines, software) resulting from such efforts. 
 
-Across a variety of definitions and understanding of technology is the word "practical," and that's my focus in this course. What skills can you learn to take with you? What knowldge can you take and practice later?
+Across a variety of definitions and understanding of technology is the word "practical," and that's my focus in this course. What skills can you learn to take with you? What knowledge can you absorb and adapt for your career? 
 
 
 # Digital Audio Fundamentals
