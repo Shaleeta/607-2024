@@ -1,4 +1,4 @@
-# Lecture 4: Digital Audio Fundamentals
+# Digital Audio Fundamentals
 
 We are now shifting from digital text to a consideration of digital audio -- a complete switch of mindset from considering digital text.
 
