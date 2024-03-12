@@ -1,4 +1,4 @@
-## PUB 607 – 2024: Digital Production Fundamentals Documentation Hub
+# PUB 607 – 2024: Digital Production Fundamentals Documentation Hub
 
 Shaleeta Harrison  
 smh33@sfu.ca
@@ -11,7 +11,7 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 <br> </br>
 
-# Table of Contents:
+### Table of Contents:
 
 **Team [Goblin](Goblin.md)**
 
@@ -23,7 +23,7 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 <br> </br>
 
-# Resources
+## Resources
 
 [**Schedule**](Shedule.md)
 
@@ -34,3 +34,13 @@ This course presents both *theory* and *practice* so that you may come to an und
 [**March 7 GitHub Lab**](March7.md)
 
 [**607 from 2023**](https://github.com/jmaxsfu/pub607-23/blob/main/README.md)
+
+<br> </br>
+
+## Audio Resources
+
+[**Audacity Guide**](audioguide.md)
+
+[**Zoom Guide**](zoom.md)
+
+[**Audio Lecture**](AudioLecture.md)
