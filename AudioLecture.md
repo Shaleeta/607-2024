@@ -88,3 +88,78 @@ Next we'll look at [Digital Audio Workstations](DAW.md) and recording gear.
 
 
 [^sound]: The Wikipedia page for "Sound" is actually a great primer!
+
+
+## Notes on Sound
+
+*Wave length* –length between waves
+*Amplitude* - similar… strength of the signal
+*Pitch* - shape of the wave
+
+Low sounds vs high sounds is relative to the speed of sound in the air:
+- 30 waves per second –20 meters long –low (30Hz)
+- 20000 waves per second –2cm long (18KHz)
+- Water is slower – how slow
+- Different shapes of sound; sharp, round, etc. 
+"Kiki" vs "Bobo"
+
+Record player takes the sound and converts it to a physical wave on the record; the same as the sound wave shape
+Show on the graph that we are measuring with lines that are recorded as a sequence of numbers
+Digitize and undigitize 
+
+To make it sound good, you need more than 40K "samples" or numbers in a sequence between waves
+
+With CDs  they began digital 
+
+Cassette tape is… analog
+Rust and tape with a bandsaw 
+Magnetic pattern on the tape
+
+16 bits - 65000 numeral options for each option
+
+Get a super high quality file to deal with Loss 
+Download Audacity + take materials home
+
+Everything is interesting enough for people; a few are disengaged but mostly good! 
+
+Stereo (2 wavelengths) 44ghz 16b x2 
+
+
+Psychoacoustics 
+Identical noise… if one side happens earlier it reads as closer. So the noise is further away until it's suddenly two
+
+Brain is used to sounds bouncing off carpets and walls
+
+Reverb – echoes in a room
+
+Hannah McGregor - Intimacy of voice - radio production - Mic placement! 
+
+Example of Shure - Aretha Franklin - used on Stage
+Behind the foam is a wire on a magnet 
+
+James Clerk Maxwell 
+Coil of wire around a magnet example… creates current
+
+Built well–tough as nails!! 
+
+Electrical signal based on air… 
+
+We want close mic sounds! 
+
+Pop filter –stops pops of air through letter ps etc
+
+Noise floor demo 
+The floor is the lowest thing you're picking up– the ambient noise 
+
+Signal strength to noise floor ratio. 
+
+
+Small and large sharp bits 
+Visible wave form appearing on the line
+Hear the hiss and see the hiss 
+If you go past the maximum noise Clipping sound… overloading the system
+Turn the sensitivity down
+
+
+Audacity Noise filter will clear the background… 
+Best possible recording before editing, 
