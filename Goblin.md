@@ -53,6 +53,7 @@ Some notes on my cover design:
 - I wanted a cover that was clear to read
 - The story is a children's fairy tale so I wanted it to follow that aesthetic
 - While I wanted to have a goblin on the cover I found that the art in the style I desired was hard to find so I opted for fantasy art
+- Many of the old covers for this book had an old fantasy aesthetic which can be found on my [Pinterest board](https://www.pinterest.ca/emilymcgovern20/cover-ideas-audiobook/) I wanted to follow that style but making it slightly more modern and catchy. 
 
 
 ![first cover](https://github.com/Shaleeta/607-2024/assets/162380787/cec2117e-1952-4a0f-95b3-740544adf6cc)
@@ -64,5 +65,5 @@ I've finished my audiobook cover and switched to InDesign for the final format a
 
 
 
-For the audio I'm thinking of having myself record the intro but having either my brother or my partner record the voices/story. 
+For the audio, I'm thinking of having myself record the intro but having either my brother or my partner record the voices/story. I 
 
