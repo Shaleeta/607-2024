@@ -27,8 +27,19 @@ For our first episode will include discussion of two recent releases. Kirstin an
 This week we shifted our concept for the podcast slightly, still working with cover design critique and analysis, we are going to now take three new releases from a genre and compare and contrast the cover design for these titles. Some questions we may answer include:
 
 <ul>
+     <li>What are your initial thoughts/feelings?</li> 
       <li>What are the similarities with these covers? Are there overarching themes?</li>
       <li>What are the differences?</li>
       <li>Which cover is the most effective</li>
       <li>Which cover do you prefer?</li>
+      <li>Would you read any of these books</li>
 </ul>
+
+The podcast outline will be as follows:
+<ol>
+      <li>Intro Song</li>
+      <li>Introduction of Hosts</li>
+      <li>Beginning of book cover discussions</li>
+      <li>Ad</li>
+      <li>Closing of book cover discussions</li>
+</ol>
