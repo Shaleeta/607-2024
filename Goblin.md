@@ -50,7 +50,9 @@ Today in class the focus was on audio and recording. I have mostly finished my a
 Here is my first rendition of my cover. 
 
 Some notes on my cover design: 
-- I wanted a cover that was clear to read 
+- I wanted a cover that was clear to read
+- The story is a children's fairy tale so I wanted it to follow that aesthetic
+- While I wanted to have a goblin on the cover I found that the art in the style I desired was hard to find so I opted for fantasy art
 
 
 ![first cover](https://github.com/Shaleeta/607-2024/assets/162380787/cec2117e-1952-4a0f-95b3-740544adf6cc)
