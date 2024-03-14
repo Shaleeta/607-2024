@@ -30,7 +30,7 @@ I received my equipment as well. I'm hoping to do my recording over the weekend 
 ## Week 2 - March 12th
 
 - [ ] Begin Recording
-- [ ] Determine background music
+- [x] Determine background music
 - [x] Start Audiobook cover
 
 I have started a [Pinterest board](https://www.pinterest.ca/emilymcgovern20/cover-ideas-audiobook/) for inspiration and old covers for this story to try and create something more engaging and perhaps more 80s fantasy-esque. I have also been looking at background music for my audiobook using royalty-free music.
@@ -51,4 +51,13 @@ Here is my first rendition of my cover.
 
 
 ![first cover](https://github.com/Shaleeta/607-2024/assets/162380787/cec2117e-1952-4a0f-95b3-740544adf6cc)
+
+
+### March 13 - 14th 
+
+I've finished my audiobook cover and switched to InDesign for the final format as opposed to Photoshop I found that my new Photoshop required me to update some graphics so for ease of creation I opted for InDesign instead. I am hoping to start recording this week after some revisions. 
+
+
+
+For the audio I'm thinking of having myself record the intro but having either my brother or my partner record the voices/story. 
 
