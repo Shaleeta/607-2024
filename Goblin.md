@@ -49,6 +49,9 @@ Today in class the focus was on audio and recording. I have mostly finished my a
 ### Cover
 Here is my first rendition of my cover. 
 
+Some notes on my cover design: 
+- I wanted a cover that was clear to read 
+
 
 ![first cover](https://github.com/Shaleeta/607-2024/assets/162380787/cec2117e-1952-4a0f-95b3-740544adf6cc)
 
