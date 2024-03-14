@@ -25,7 +25,7 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 ## Resources
 
-[**Schedule**](Shedule.md)
+[**Schedule**](Schedule.md)
 
 [**Lecture 1**](Lecture1.md)
 
