@@ -23,5 +23,12 @@ For our first episode will include discussion of two recent releases. Kirstin an
 - [ ] Choose titles to review
 - [ ] Write intro script for podcast
 - [ ] Write ad script
-      
 
+This week we shifted our concept for the podcast slightly, still working with cover design critique and analysis, we are going to now take three new releases from a genre and compare and contrast the cover design for these titles. Some questions we may answer include:
+
+<ul>
+      <li>What are the similarities with these covers? Are there overarching themes?</li>
+      <li>What are the differences?</li>
+      <li>Which cover is the most effective</li>
+      <li>Which cover do you prefer?</li>
+</ul>
