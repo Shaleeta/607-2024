@@ -29,7 +29,7 @@ I received my equipment as well. I'm hoping to do my recording over the weekend 
 
 ## Week 2 - March 12th
 
-- [ ] Begin Recording
+- [x] Begin Recording
 - [x] Determine background music
 - [x] Start Audiobook cover
 
