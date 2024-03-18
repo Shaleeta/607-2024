@@ -67,3 +67,7 @@ I've finished my audiobook cover and switched to InDesign for the final format a
 
 For the audio, I'm thinking of having myself record the intro but having either my brother or my partner record the voices/story. I hope to start recording my own audio tonight. 
 
+### March 19th 
+
+Over the weekend I got around to recording my audio. I had a few errors in the initial steps so I ended up trying a different microphone. I recorded two different chapters (chp 1 and chp 8) with 5 min of audio each. 
+
