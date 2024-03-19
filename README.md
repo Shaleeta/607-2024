@@ -36,7 +36,7 @@ This course presents both *theory* and *practice* so that you may come to an und
 [**Pandoc Download Page**](https://pandoc.org/installing.html)
 Pandoc is essentially the best conversion tool ever; this is how we'll create an ebook! It also has excellent documentation. 
 
-
+<br> </br>
 
 ## Resources from 607, 2023
 [**Home Page**](https://github.com/jmaxsfu/pub607-23/blob/main/README.md)
