@@ -33,12 +33,19 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 [**March 7 GitHub Lab**](March7.md)
 
-[**607 from 2023**](https://github.com/jmaxsfu/pub607-23/blob/main/README.md)
-
 [**Pandoc Download Page**](https://pandoc.org/installing.html)
 Pandoc is essentially the best conversion tool ever; this is how we'll create an ebook! It also has excellent documentation. 
 
 
+
+## Resources from 607, 2023
+[**Home Page**](https://github.com/jmaxsfu/pub607-23/blob/main/README.md)
+
+[**Command Shell Cheat Sheet**](https://github.com/jmaxsfu/pub607-23/blob/main/Commands.md)
+
+[**Regular Expressions Video**](https://github.com/jmaxsfu/pub607-23/blob/main/Regex.md)
+
+[**Examples of HTML, SVG, etc**](https://github.com/jmaxsfu/pub607-23/blob/main/XMLexamples.md)
 
 
 <br> </br>
