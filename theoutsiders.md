@@ -10,6 +10,7 @@ My name is Bithi. I am a graphic designer and illustrator from a beautiful south
 I am a Brazilian graduate student, with a BA in Portuguese and English with a teaching certificate from Universidade Federal da Bahia, and a BA in English Language and Literature from Universidade Federal da Bahia. I am interested in producing criative audiobooks and putting my experience in creating audiobooks based on radio plays to use. 
 
 ### Edson ###
+I'm Edd. I am bilingual writer and content creator. I love all things books and coffee.
 
 ## PLANS ##
 ### Week 1 ###
