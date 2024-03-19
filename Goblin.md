@@ -69,9 +69,9 @@ For the audio, I'm thinking of having myself record the intro but having either 
 
 ### March 19th 
 
-Over the weekend I got around to recording my audio. I had a few errors in the initial steps so I ended up trying a different microphone. I recorded two different chapters (chp 1 and chp 8) with 5 min of audio each. 
+Over the weekend I got around to recording my audio. I had a few errors in the initial steps so I ended up trying a different microphone. I recorded two different chapters (chp 1 and chp 8) with 5 min of audio each. In class I focused on fixing up the audiobook cover and handed back my recording equipment. 
 
 For the next week my goals are to:
-- [ ] Edit audio into two segements
+- [ ] Edit audio into two sections
 - [ ] Add sound effects
 - [ ] Record my audio portion (chapter titles)
