@@ -52,6 +52,7 @@ It should already be applied, but if not use code BCITSTU for free tickets!
 
 [**Examples of HTML, SVG, etc**](https://github.com/jmaxsfu/pub607-23/blob/main/XMLexamples.md)
 
+[**Lecture on Accessible Ebooks**](https://github.com/jmaxsfu/pub607-23/blob/main/3.Ebooks.md)
 
 <br> </br>
 
