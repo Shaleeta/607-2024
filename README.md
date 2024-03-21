@@ -36,7 +36,7 @@ This course presents both *theory* and *practice* so that you may come to an und
 [**Pandoc Download Page**](https://pandoc.org/installing.html)
 Pandoc is essentially the best conversion tool ever; this is how we'll create an ebook! It also has excellent documentation. 
 
-[**Workshop on AI etc.](https://www.eventbrite.ca/e/magazine-publishing-essentials-tickets-820283438847?discount=BCITSTU)
+[**Workshop on AI etc.**](https://www.eventbrite.ca/e/magazine-publishing-essentials-tickets-820283438847?discount=BCITSTU)
 It should already be applied, but if not use code BCITSTU for free tickets! 
 
 <br> </br>
