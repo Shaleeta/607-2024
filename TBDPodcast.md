@@ -43,3 +43,5 @@ The podcast outline will be as follows:
       <li>Ad</li>
       <li>Closing of book cover discussions</li>
 </ol>
+
+### Week 3 - March 19th
