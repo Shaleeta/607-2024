@@ -47,6 +47,7 @@ Pandoc is essentially the best conversion tool ever; this is how we'll create an
 
 [**Examples of HTML, SVG, etc**](https://github.com/jmaxsfu/pub607-23/blob/main/XMLexamples.md)
 
+[**Word File of Stock/AI Links**](https://docs.google.com/document/d/1wCIllY6u68wQx3-F_EYJJ6umhL5V4fjKI5HDubwrd1U/edit?usp=sharing))
 
 <br> </br>
 
