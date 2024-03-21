@@ -39,6 +39,8 @@ Pandoc is essentially the best conversion tool ever; this is how we'll create an
 [**Workshop on AI etc.**](https://www.eventbrite.ca/e/magazine-publishing-essentials-tickets-820283438847?discount=BCITSTU)
 It should already be applied, but if not use code BCITSTU for free tickets! 
 
+[**Word File of Stock/AI Links**](https://docs.google.com/document/d/1wCIllY6u68wQx3-F_EYJJ6umhL5V4fjKI5HDubwrd1U/edit?usp=sharing)
+
 <br> </br>
 
 ## Resources from 607, 2023
@@ -50,7 +52,6 @@ It should already be applied, but if not use code BCITSTU for free tickets!
 
 [**Examples of HTML, SVG, etc**](https://github.com/jmaxsfu/pub607-23/blob/main/XMLexamples.md)
 
-[**Word File of Stock/AI Links**](https://docs.google.com/document/d/1wCIllY6u68wQx3-F_EYJJ6umhL5V4fjKI5HDubwrd1U/edit?usp=sharing)
 
 <br> </br>
 
