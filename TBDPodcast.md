@@ -22,7 +22,7 @@ For our first episode will include discussion of two recent releases. Kirstin an
 
 - [ ] Choose titles to review
 - [ ] Write intro script for podcast
-- [ ] Write ad script
+- [x] Write ad script
 
 This week we shifted our concept for the podcast slightly, still working with cover design critique and analysis, we are going to now take three new releases from a genre and compare and contrast the cover design for these titles. Some questions we may answer include:
 
@@ -45,3 +45,16 @@ The podcast outline will be as follows:
 </ol>
 
 ### Week 3 - March 19th
+- [x] Trial Microphones and possible spaces for recording
+- [ ] Selecting Microphone and location for recording
+- [ ] Finish prepping script for recording on saturday
+
+This week we began testing our equipment to prepare for recording on Saturday. We did not have an SD card so recorded directly onto our computer. The editing tool we will be using is Adobe Audition, we decided to use this interface because it is something that Rebecca has experience with. 
+
+The locations we trialed were within Rebecca's small bachelor apartment using both the Zoom and the Shure microphone. Unfortunatley the The Shure microphone recorded with an ongoing buzz over all the audio. We think this may be due the cables and will troubleshoot this when we have more time by swapping out chords as well as trying a new Shure Microphone. 
+
+The Zoom Mic recorded well and due to the buzz on the Shure mic, it actually sounded better. No sounds beyound the speakers voice were picked up, which was shocking as the living room was used to start. Rebecca lives across the street from a dog park and there are constantly dogs creating a ruckus, luckily this was not picked up with the mic. 
+
+The other areas of the home used to trial the microphones were a small bed nook (the size of a double bed), and a bathroom. The bed nook created a great space for recording, it was quite with no outside sounds or echoes. The nook will be easily insulated as it is so small. The bathroom created and echo with the zoom mic but did an ok job with the Shure mic. The bed nook does seem to be the best option for recording our podcast, but we will have better information about this once we try a different microphone to get a sense of the sound without the overall buzz. 
+
+For our recording session on Saturday we will play around with blocking the doorway with padded material. We will also need to put together a set up to hold our microphones in place. This is something we noted when trialing our microphones, as they move closer and further from the speaker it can create quite a different volume and effect. We will need to make sure we have a set up that keeps the microphones in place. 
