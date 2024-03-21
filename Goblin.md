@@ -75,5 +75,7 @@ There are also some really funny bloopers in my recordings with my brother so I 
 
 For the next week, my goals are to:
 - [ ] Edit audio into two sections
-- [ ] Add sound effects
-- [ ] Record my audio portion (chapter titles)
+- [x] Add sound effects
+- [x] Record my audio portion (chapter titles)
+
+I have recorded my chapter titles (in my closet) and added sound effects to my chapter 8 recording when needed. For the next week my main focus it to put everything together into 2 final versions for chapter 1 and chapter 8 (each 5 min each). 
