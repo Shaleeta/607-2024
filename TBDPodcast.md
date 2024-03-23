@@ -20,8 +20,8 @@ For our first episode will include discussion of two recent releases. Kirstin an
 
 ### Week 2 - March 12th
 
-- [ ] Choose titles to review
-- [ ] Write intro script for podcast
+- [x] Choose titles to review
+- [x] Write intro script for podcast
 - [x] Write ad script
 
 This week we shifted our concept for the podcast slightly, still working with cover design critique and analysis, we are going to now take three new releases from a genre and compare and contrast the cover design for these titles. Some questions we may answer include:
@@ -46,7 +46,7 @@ The podcast outline will be as follows:
 
 ### Week 3 - March 19th
 - [x] Trial Microphones and possible spaces for recording
-- [ ] Selecting Microphone and location for recording
+- [x] Selecting Microphone and location for recording
 - [ ] Finish prepping script for recording on saturday
 
 This week we began testing our equipment to prepare for recording on Saturday. We did not have an SD card so recorded directly onto our computer. The editing tool we will be using is Adobe Audition, we decided to use this interface because it is something that Rebecca has experience with. 
