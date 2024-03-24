@@ -58,3 +58,7 @@ The Zoom Mic recorded well and due to the buzz on the Shure mic, it actually sou
 The other areas of the home used to trial the microphones were a small bed nook (the size of a double bed), and a bathroom. The bed nook created a great space for recording, it was quite with no outside sounds or echoes. The nook will be easily insulated as it is so small. The bathroom created and echo with the zoom mic but did an ok job with the Shure mic. The bed nook does seem to be the best option for recording our podcast, but we will have better information about this once we try a different microphone to get a sense of the sound without the overall buzz. 
 
 For our recording session on Saturday we will play around with blocking the doorway with padded material. We will also need to put together a set up to hold our microphones in place. This is something we noted when trialing our microphones, as they move closer and further from the speaker it can create quite a different volume and effect. We will need to make sure we have a set up that keeps the microphones in place. 
+
+### Recording Day: March 23
+
+Today we recorded our podcast. We set up a "recording studio" in Rebecca's small bed nook. With a closet dampening sound on one side, we hung duvets on two of the other walls to create the booth. The bed added extra dampening. 
