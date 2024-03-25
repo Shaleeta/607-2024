@@ -47,7 +47,7 @@ The podcast outline will be as follows:
 ### Week 3 - March 19th
 - [x] Trial Microphones and possible spaces for recording
 - [x] Selecting Microphone and location for recording
-- [ ] Finish prepping script for recording on saturday
+- [x] Finish prepping script for recording on saturday
 
 This week we began testing our equipment to prepare for recording on Saturday. We did not have an SD card so recorded directly onto our computer. The editing tool we will be using is Adobe Audition, we decided to use this interface because it is something that Rebecca has experience with. 
 
@@ -61,4 +61,20 @@ For our recording session on Saturday we will play around with blocking the door
 
 ### Recording Day: March 23
 
-Today we recorded our podcast. We set up a "recording studio" in Rebecca's small bed nook. With a closet dampening sound on one side, we hung duvets on two of the other walls to create the booth. The bed added extra dampening. 
+Today we recorded our podcast. 
+Recording notes:
+ 
+- Recording session held at Rebecca’s apartment, she set up a "recording studio" in her small bed nook. With a closet dampening sound on one side, we hung duvets on two of the other walls to create the booth. The bed added extra dampening.
+- Set up the Zoom recorder to desktop computer, but there was a buzzing sound present when we recorded.
+- Set up the other recorder using SD card, sound much better but it’s not in stereo. You can hear Kirstin in one ear and Rebecca in the other. We also heard sounds of hands on the microphone and Kirstin breathing while Rebecca talked (note to Kirstin: don’t hold the microphone so close when not talking).
+- Rebecca figured out which setting needed to be on to make the sound record in stereo.
+- We recorded the podcast in pieces, over the course of a couple hours. After listening to it playback we made a note of where we needed to re-record, things we needed to add, and places where we could delete content to tighten it up.
+- Rebecca went in and pieced it all together and did a first round of edits. It’s currently just over 11 minutes long.
+
+### Listening session: March 25
+
+- Listened together and noted places to make small edits. 
+- Contemplating removing the ad to reduce the length.
+- Identified some background and additional noises that would be dieally edited out (tapping the mic, breathing, etc). Tbd if these can be edited!
+- Discussed creating an image to brand our podcast, and the need for a short write-up. 
+
