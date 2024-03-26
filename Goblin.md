@@ -59,11 +59,9 @@ Some notes on my cover design:
 ![first cover](https://github.com/Shaleeta/607-2024/assets/162380787/cec2117e-1952-4a0f-95b3-740544adf6cc)
 
 
-March 13 - 14th 
+### March 13 - 14th 
 
 I've finished my audiobook cover and switched to InDesign for the final format as opposed to Photoshop I found that my new Photoshop required me to update some graphics so for ease of creation I opted for InDesign instead. I am hoping to start recording this week after some revisions. 
-
-
 
 For the audio, I'm thinking of having myself record the intro but having either my brother or my partner record the voices/story. I hope to start recording my own audio tonight. 
 
