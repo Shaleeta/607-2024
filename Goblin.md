@@ -59,7 +59,7 @@ Some notes on my cover design:
 ![first cover](https://github.com/Shaleeta/607-2024/assets/162380787/cec2117e-1952-4a0f-95b3-740544adf6cc)
 
 
-### March 13 - 14th 
+March 13 - 14th 
 
 I've finished my audiobook cover and switched to InDesign for the final format as opposed to Photoshop I found that my new Photoshop required me to update some graphics so for ease of creation I opted for InDesign instead. I am hoping to start recording this week after some revisions. 
 
@@ -67,7 +67,7 @@ I've finished my audiobook cover and switched to InDesign for the final format a
 
 For the audio, I'm thinking of having myself record the intro but having either my brother or my partner record the voices/story. I hope to start recording my own audio tonight. 
 
-### Week 3 - March 19th 
+## Week 3 - March 19th 
 
 Over the weekend I got around to recording my audio. I had a few errors in the initial steps so I ended up trying a different microphone. I recorded two different chapters (chp 1 and chp 8) with 5 min of audio each. In class, I focused on fixing up the audiobook cover and handed back my recording equipment. 
 
@@ -81,6 +81,6 @@ For the next week, my goals are to:
 I have recorded my chapter titles (in my closet) and added sound effects to my chapter 8 recording when needed. For the next week my main focus it to put everything together into 2 final versions for chapter 1 and chapter 8 (each 5 min each). 
 
 
-### Week 4 - March 26th 
+## Week 4 - March 26th 
 
-I have edited all the audio clips and added the sound effects and background noises where needed. I have two samples. The first one is a typical 5 min sample from chapter 1 without sound effects so that I could learn how to create a standard audiobook. My second sample is a 5 min clip from chapter 8 that has voice acting, sound effects and background noise at certain parts. This was to see how I could incorporate these aspects into an audiobook.  
+I have edited all the audio clips and added the sound effects and background noises where needed. I have two samples. The first one is a typical 5-minute sample from chapter 1 without sound effects so that I could learn how to create a standard audiobook. My second sample is a 5-minute clip from chapter 8 that has voice acting, sound effects and background noise at certain parts. This was to see how I could incorporate these aspects into an audiobook.  
