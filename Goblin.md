@@ -11,7 +11,7 @@ Pub 607 - Audiobook Project - Emily
 
 I am team **Goblin** I am going to be making an interactive audiobook for [The Princess and the Goblin](https://www.gutenberg.org/cache/epub/708/pg708-images.html) by George MacDonald. The tale follows a princess and a cast of goblins who hate poetry. 
 
-For this project, I have hopes to make an interactive audiobook similar to Webtoons that have background music and voice acting while also being easy to follow as it is a children's fairy tale.
+For this project, I have hopes to make an interactive audiobook similar to Webtoons that has background music and voice acting while also being easy to follow as it is a children's fairy tale.
 
 --- 
 
@@ -76,9 +76,11 @@ For the next week, my goals are to:
 - [x] Add sound effects
 - [x] Record my audio portion (chapter titles)
 
-I have recorded my chapter titles (in my closet) and added sound effects to my chapter 8 recording when needed. For the next week my main focus it to put everything together into 2 final versions for chapter 1 and chapter 8 (each 5 min each). 
+I have recorded my chapter titles (in my closet) and added sound effects to my chapter 8 recording when needed. For the next week, my main focus is to put everything together into 2 final versions for chapter 1 and chapter 8 (each 5 min each). 
 
 
 ## Week 4 - March 26th 
 
-I have edited all the audio clips and added the sound effects and background noises where needed. I have two samples. The first one is a typical 5-minute sample from chapter 1 without sound effects so that I could learn how to create a standard audiobook. My second sample is a 5-minute clip from chapter 8 that has voice acting, sound effects and background noise at certain parts. This was to see how I could incorporate these aspects into an audiobook.  
+I have edited all the audio clips and added the sound effects and background noises where needed. I have two samples. The first one is a typical 5-minute sample from Chapter 1 without sound effects so that I could learn how to create a standard audiobook. My second sample is a 5-minute clip from Chapter 8 that has voice acting, sound effects and background noise at certain parts. This was to see how I could incorporate these aspects into an audiobook. 
+
+My next issue for this week is to focus on putting together the audiobook cover and audio. 
