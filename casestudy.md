@@ -55,7 +55,7 @@ Print output may not be as high res?
 ### Project 3 / Carol
 ## Tool:
 Canva
-##Thoughts:
+## Thoughts:
 On Canva, it is really easy to create a business card using one of the templates available. The foil is not difficult to create, you can simply duplicate the front of the card and turn the elements black, to showcase the foil. However, it does get a little tricky, as canva doesn’t allow you to change the colors of an image inserted in the projected, so you have to only use text or vectors to apply foil. Also, you can’t round the corners when exporting the cut marks. In sum, Canva helps a lot with the creative part of designing, but is not really helpful for the finishes. 
 
 
