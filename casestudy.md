@@ -20,6 +20,9 @@ Your production manager at the magazine asks you to draft a flatplan to discuss 
 
 
 # Project Results
+--- 
 ## Emily 
 ### Project Three
 [Business Card](https://www.canva.com/design/DAEp8PYHdrc/CKsFdSS2sphA11tGDSaJxw/edit?utm_content=DAEp8PYHdrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Platform used: Canva 
+Why: Canva is more streamlined for creating business cards and can also be customized to have rounded edges. The issue posed would be adding foil to the logo of the business card. 
