@@ -22,4 +22,4 @@ Your production manager at the magazine asks you to draft a flatplan to discuss 
 # Project Results
 ## Emily 
 ### Project Three
-(image)[https://www.canva.com/design/DAEp8PYHdrc/CKsFdSS2sphA11tGDSaJxw/edit?utm_content=DAEp8PYHdrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+[Business Card](https://www.canva.com/design/DAEp8PYHdrc/CKsFdSS2sphA11tGDSaJxw/edit?utm_content=DAEp8PYHdrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
