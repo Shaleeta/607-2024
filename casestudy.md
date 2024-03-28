@@ -97,3 +97,6 @@ Adobe InDesign
 ### Benefits
 Great for large size prints and image quality and bleeds. Easy to doccument setup and formats.
 I think perticularly this project is not for Canva depending on its requirement for large print. Canva has a specific size limitations for print.
+
+## Project 5 / Moira
+[Case Study.pdf](https://github.com/Shaleeta/607-2024/files/14796355/Case.Study.pdf)
