@@ -34,3 +34,18 @@ Canva offers a wide range of pre-designed templates, including some specifically
 
 ### Benefits: 
 InDesign allows for more intricate customization and fine-tuning of design elements, which is particularly important for foiling. 
+
+----
+
+### Project 4 / Kirstin
+
+https://www.canva.com/design/DAGA1SZ0K-A/6acK3Xu0XMZLwWfyxLZHKw/edit?utm_content=DAGA1SZ0K-A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+### Tool: 
+Canva
+
+### Benefits: 
+Easy to use, lots of templates and images, easy to share, allows for comments.
+
+### Limitations: 
+Print output may not be as high res?
