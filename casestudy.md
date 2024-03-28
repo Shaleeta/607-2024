@@ -24,13 +24,13 @@ Your production manager at the magazine asks you to draft a flatplan to discuss 
 ## Emily 
 ### Project Three
 [Business Card](https://www.canva.com/design/DAEp8PYHdrc/CKsFdSS2sphA11tGDSaJxw/edit?utm_content=DAEp8PYHdrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-Platform used: Canva 
+Platform used: Indesign 
 
 
-Why: Canva is more streamlined for creating business cards and can also be customized to have rounded edges. The issue posed would be adding foil to the logo of the business card. 
+Why: Canva is more streamlined for creating business cards and can also be customized to have rounded edges. The issue posed would be adding foil to the logo of the business card. Ultimately, for a quick and easy solution with less complexity and minimal design experience, Canva might be the better choice. However, if you require more control over your design, precision in print layout (as is the case in project 3) Adobe InDesign would likely be a more suitable option for foil business cards.
 
 
-Limitations:
+Limitations: 
 
 
 Benefits: 
