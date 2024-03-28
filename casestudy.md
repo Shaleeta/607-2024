@@ -59,4 +59,20 @@ Canva
 ## Thoughts:
 On Canva, it is really easy to create a business card using one of the templates available. The foil is not difficult to create, you can simply duplicate the front of the card and turn the elements black, to showcase the foil. However, it does get a little tricky, as canva doesn’t allow you to change the colors of an image inserted in the projected, so you have to only use text or vectors to apply foil. Also, you can’t round the corners when exporting the cut marks. In sum, Canva helps a lot with the creative part of designing, but is not really helpful for the finishes. 
 
+-----
+
+## Project 4 / Rebecca
+
+### Tool
+Adobe InDesign
+
+### Benefits
+InDesign is great for multipage layouts, it was created for magazine layout so it is a great tool to use for a project like this. Within InDesign you can typeset and create a professional looking document with placed images and graphics. 
+
+InDesign can also allow file sharing and comments on your document for input from colleagues. 
+
+### Limitations
+As far as I know, you can not create graphs within InDesign. Almost always, when working with in InDesign, I also work with Adobe Illustrator at the same time. Illustrator can be used to create graphs and graphics that will then be brought into InDesign. I beleive within Canva you may be able to access these tools in app without accessing a seperate app. 
+
+
 
