@@ -63,3 +63,7 @@ It should already be applied, but if not use code BCITSTU for free tickets!
 [**Zoom Guide**](zoom.md)
 
 [**Audio Lecture**](AudioLecture.md)
+
+## Class March 28
+
+[**Case Study Details**](casestudy.md)
