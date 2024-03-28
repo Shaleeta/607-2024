@@ -18,3 +18,8 @@ Your boss requests from you an eight-page saddle-stitched report on how successf
 Your production manager at the magazine asks you to draft a flatplan to discuss at the meeting later this week. She has all of the content ready and tells you there are ten ads (4 full-page, 6 half-page) and ten articles (4 will be 2-3 pages each, and 6 will be 5-6 pages each) plus of course four pages at the front for the masthead, table of contents, and contributor bios. She'd like you to let her know how many pages you will need (multiples of four only!) and ensure titles are on the articles (you can make these up). 
 
 
+
+# Project Results
+## Emily 
+### Project Three
+(image)[https://www.canva.com/design/DAEp8PYHdrc/CKsFdSS2sphA11tGDSaJxw/edit?utm_content=DAEp8PYHdrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
