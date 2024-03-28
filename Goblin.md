@@ -83,4 +83,6 @@ I have recorded my chapter titles (in my closet) and added sound effects to my c
 
 I have edited all the audio clips and added the sound effects and background noises where needed. I have two samples. The first one is a typical 5-minute sample from Chapter 1 without sound effects so that I could learn how to create a standard audiobook. My second sample is a 5-minute clip from Chapter 8 that has voice acting, sound effects and background noise at certain parts. This was to see how I could incorporate these aspects into an audiobook. 
 
+I thought of adding more sound effects and background music but I didn't want it to be too distracting. 
+
 My next issue for this week is to focus on putting together the audiobook cover and audio. 
