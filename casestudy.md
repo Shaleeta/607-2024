@@ -52,7 +52,7 @@ Print output may not be as high res?
 
 -----
 
-###Project 3 / Carol
+### Project 3 / Carol
 ## Tool:
 Canva
 ##Thoughts:
