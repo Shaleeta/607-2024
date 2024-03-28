@@ -65,6 +65,7 @@ On Canva, it is really easy to create a business card using one of the templates
 
 ### Tool
 Adobe InDesign
+https://assets.adobe.com/id/urn:aaid:sc:US:ed7fbf8a-33de-4aaf-93a4-ee95c0d8db79?view=published
 
 ### Benefits
 InDesign is great for multipage layouts, it was created for magazine layout so it is a great tool to use for a project like this. Within InDesign you can typeset and create a professional looking document with placed images and graphics. 
