@@ -66,7 +66,7 @@ It should already be applied, but if not use code BCITSTU for free tickets!
 
 ## Class March 28
 
-[Google Doc Discussion](https://docs.google.com/document/d/129MC6l1Uk8eg0xOUJ6-1DvEXHMZzWO-sHlp_p108W-s/edit?usp=sharing)
+[**Google Doc Discussion**](https://docs.google.com/document/d/129MC6l1Uk8eg0xOUJ6-1DvEXHMZzWO-sHlp_p108W-s/edit?usp=sharing)
 
 [**Case Study Details**](casestudy.md)
 
