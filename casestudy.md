@@ -89,4 +89,11 @@ Easy to use, aesthetic templates, quick-to-use templates.
 ### Limitations:
 Precision in handling bleed and fold marks. Canva doesn't offer as fine-tuned control over these elements. Also, advanced features such as precise typography control and complex layout options.
 
+## Project 1 / Bithi
 
+### Tool
+Adobe InDesign
+
+### Benefits
+Great for large size prints and image quality and bleeds. Easy to doccument setup and formats.
+I think perticularly this project is not for Canva depending on its requirement for large print. Canva has a specific size limitations for print.
