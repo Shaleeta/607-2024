@@ -53,6 +53,7 @@ Print output may not be as high res?
 -----
 
 ### Project 3 / Carol
+https://www.canva.com/design/DAGA1aZbB6U/Y9_NnCW8RBodhf7RW1O2Gg/edit?utm_content=DAGA1aZbB6U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Tool:
 Canva
 ## Thoughts:
