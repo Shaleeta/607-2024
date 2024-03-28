@@ -75,5 +75,18 @@ InDesign can also allow file sharing and comments on your document for input fro
 ### Limitations
 As far as I know, you can not create graphs within InDesign. Almost always, when working with in InDesign, I also work with Adobe Illustrator at the same time. Illustrator can be used to create graphs and graphics that will then be brought into InDesign. I beleive within Canva you may be able to access these tools in app without accessing a seperate app. 
 
+-----
+
+### Project 2 / Edd
+https://www.canva.com/design/DAGA1oL-wIo/X2MFC4xWqOct9_wNidqIBQ/view?utm_content=DAGA1oL-wIo&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+### Tool:
+Canva
+
+### Benefits:
+Easy to use, aesthetic templates, quick-to-use templates.
+
+### Limitations:
+Precision in handling bleed and fold marks. Canva doesn't offer as fine-tuned control over these elements. Also, advanced features such as precise typography control and complex layout options.
 
 
