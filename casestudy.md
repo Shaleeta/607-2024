@@ -1,20 +1,20 @@
 # Case Study Class Assignment
-
-
-
+This individual assignment is meant to be completed alone before the end of class, but you can discuss it all among yourselves! The design isn't important to me (though it can be fun to create), the technology and decisions you make are. By the end of class, let me know (here or aloud) whether you decided to use Canva or InDesign for your project, and why. What limitations did you find? What benefits were you considering? If needed, we can move upstairs to the computers/project rooms. 
+ 
 
 ### Project One
-Roll-up banner
+Your manager asks you to design a roll-up banner for a variety of author signings and tradeshows you will attend this year. They send you the link to the one they plan to purchase [here](https://thunderboltsign.com/product/premium-roll-up-banner/). 
 
 ### Project Two
-Flatplan
+You are asked to create a tri-fold brochure for the tradeshow. Images and content will go to the edge, so you'll need to include bleed on the file. They plan to print on standard letter paper, and ask you how big the finished product will be, where the folds will be, and how the brochure will fold up. What program do you use and how do you ensure all of those details are clear? 
 
 ### Project Three
-Business card with spot colour
-
-### Project Three
-A report on how successful the trade show was
-
+You are asked to create a simple business card with just the logo on the front and names, numbers, and emails on the back. The catch? The logo will be foil, and the corners will be rounded. You are printing with Hemlock for this project, and they said you can send the file as 2" x 3" (no bleeds as nothing touches the edge) and they will lay it out for sheet printing. 
 
 ### Project Four
-Brochure to hand out at the tradeshow
+Your boss requests from you an eight-page saddle-stitched report on how successful the trade show was compared to other shows and previous years. This should include visuals and data as well as large blocks of text (lorem ipsum is fine) and photos. Your manager would like you to send it to them before printing in a way that allows them to add their comments and suggestions. 
+
+### Project Five
+Your production manager at the magazine asks you to draft a flatplan to discuss at the meeting later this week. She has all of the content ready and tells you there are ten ads (4 full-page, 6 half-page) and ten articles (4 will be 2-3 pages each, and 6 will be 5-6 pages each) plus of course four pages at the front for the masthead, table of contents, and contributor bios. She'd like you to let her know how many pages you will need (multiples of four only!) and ensure titles are on the articles (you can make these up). 
+
+
