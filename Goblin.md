@@ -53,7 +53,7 @@ Some notes on my cover design:
 - I wanted a cover that was clear to read
 - The story is a children's fairy tale so I wanted it to follow that aesthetic
 - While I wanted to have a goblin on the cover I found that the art in the style I desired was hard to find so I opted for fantasy art
-- Many of the old covers for this book had an old fantasy aesthetic which can be found on my [Pinterest board](https://www.pinterest.ca/emilymcgovern20/cover-ideas-audiobook/) I wanted to follow that style but making it slightly more modern and catchy. 
+- Many of the old covers for this book had an old fantasy aesthetic which can be found on my [Pinterest board](https://www.pinterest.ca/emilymcgovern20/cover-ideas-audiobook/) I wanted to follow that style but making it slightly more modern and catchy. 😸
 
 
 ![first cover](https://github.com/Shaleeta/607-2024/assets/162380787/cec2117e-1952-4a0f-95b3-740544adf6cc)
@@ -69,7 +69,7 @@ For the audio, I'm thinking of having myself record the intro but having either 
 
 Over the weekend I got around to recording my audio. I had a few errors in the initial steps so I ended up trying a different microphone. I recorded two different chapters (chp 1 and chp 8) with 5 min of audio each. In class, I focused on fixing up the audiobook cover and handed back my recording equipment. 
 
-There are also some really funny bloopers in my recordings with my brother so I was thinking if I had time to put together a blooper reel. 
+There are also some really funny bloopers in my recordings with my brother so I was thinking if I had time to put together a blooper reel.
 
 For the next week, my goals are to:
 - [x] Edit audio into two sections
@@ -85,4 +85,4 @@ I have edited all the audio clips and added the sound effects and background noi
 
 I thought of adding more sound effects and background music but I didn't want it to be too distracting. 
 
-My next issue for this week is to focus on putting together the audiobook cover and audio. 
+My next issue for this week is to focus on putting together the audiobook cover and audio.📖🎵
