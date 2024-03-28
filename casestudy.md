@@ -100,3 +100,4 @@ I think perticularly this project is not for Canva depending on its requirement 
 
 ## Project 5 / Moira
 [Case Study.pdf](https://github.com/Shaleeta/607-2024/files/14796355/Case.Study.pdf)
+I hated trying to figure out Canva for this with its system of templates and such, since they didn't really have a suitable template for this project. InDesign was slow but worked.
