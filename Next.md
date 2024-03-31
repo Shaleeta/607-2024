@@ -8,7 +8,17 @@ If you're done editing your audio file, what next?
 - Edit the file to add metadata & a cover photo
 - Add mp3 to download page
 - Prepare your Show & Tell
-      - Each presentation should be 15-20 minutes
-      - Remember to share your download page, some of your audio, and some of your biggest challenges
-      - Struggling to fill your time slot? Tell a story or anecdote about your process, share your research, showcase some funny mistakes, or involve your audience! 
-- 
+
+### Show & Tell Presentation
+
+Each presentation should be 15-20 minutes. You should include:
+- your download page
+- some of your audio
+- some of your biggest challenges
+
+Struggling to fill your time slot? 
+- Tell a story
+- Share an anecdote
+- Explain some research you reviewed/information you learned
+- showcase a funny mistake
+- involve your audience!
