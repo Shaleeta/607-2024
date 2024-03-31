@@ -1,17 +1,16 @@
 # Sources - Printing Technology Presentation 
-1. Banff Centre for Arts and Creativity. “How-to: Use a Letterpress.” YouTube, August 7, 2015. https://www.youtube.com/watch?v=YnweMvsoFNY. 
-“Book Printing Basics and What You Need to Know.” Sure Print & Design, September 14, 2021. https://sureprintanddesign.ca/article/everything-you-need-to-know-about-book-printing/. 
-Carter, Dom. “A Creative’s Guide to Different Types of Printing.” Creative Bloq, December 23, 2019. https://www.creativebloq.com/features/a-creatives-guide-to-different-types-of-printing. 
-Express Cards. “How Offset Printing Works.” YouTube, June 24, 2016. https://www.youtube.com/watch?v=5LMU-zB8Sro. 
-Express Cards. “How Offset Printing Works.” YouTube, June 24, 2016. https://www.youtube.com/watch?v=5LMU-zB8Sro. 
-“History of the Letterpress.” Letterpress PLAY, July 9, 2020. https://letterpressplay.com/en-ca/blogs/blog/history-of-the-letterpress. 
-Iverson, Jana. “The Offset Printing Process: How It Works - Pakfactory Blog.” PakFactory Blog - The go-to academic resource for packaging, September 13, 2023. https://pakfactory.com/blog/what-is-offset-printing/. 
-Kirvan, Paul. “What Is a Plotter and How Does It Work?” WhatIs, September 1, 2022. https://www.techtarget.com/whatis/definition/plotter. 
-“Lithography.” Encyclopædia Britannica. Accessed March 27, 2024. https://www.britannica.com/art/printmaking/Lithography. 
-Mscope. “How Do Printers Work? (Color Laser Printer & Inkjet Printer).” YouTube, August 31, 2021. https://www.youtube.com/watch?v=tDiHTK9nwYw. 
-Muhammad, Asif. “What Is Offset Printing? Differences between Offset and Digital Printing.” Refine Packaging, March 2, 2024. https://refinepackaging.com/blog/what-is-offset-printing/. 
-Ng, Steph. “How a Laser Printer Works (Static Electricity).” YouTube, January 29, 2014. https://www.youtube.com/watch?v=_UOU5_4fnzs. 
-Office Interiors. “Inkjet vs Laser Printers [Pros & Cons].” YouTube, April 11, 2019. https://www.youtube.com/watch?v=drAc_1wm0hE. 
-“Offset Printing.” Encyclopædia Britannica. Accessed March 27, 2024. https://www.britannica.com/technology/offset-printing. 
-Porteous, CJ. “Choosing the Perfect Printer: Inkjet vs. Laser - Find out the Costs, Quality, and Best Fit for Your Office.” Office Interiors, November 15, 2023. https://www.officeinteriors.ca/blog/inkjet-vs-laser-printers/. 
-Simmons, Lee. “Inside Laser Printer Toner: Wax, Static, Lots of Plastic.” Wired, March 23, 2015. https://www.wired.com/2015/03/whats-inside-printer-toner/. 
+- Banff Centre for Arts and Creativity. “How-to: Use a Letterpress.” YouTube, August 7, 2015. https://www.youtube.com/watch?v=YnweMvsoFNY.
+- “Book Printing Basics and What You Need to Know.” Sure Print & Design, September 14, 2021. https://sureprintanddesign.ca/article/everything-you-need-to-know-about-book-printing/.
+- Carter, Dom. “A Creative’s Guide to Different Types of Printing.” Creative Bloq, December 23, 2019. https://www.creativebloq.com/features/a-creatives-guide-to-different-types-of-printing.
+- Express Cards. “How Offset Printing Works.” YouTube, June 24, 2016. https://www.youtube.com/watch?v=5LMU-zB8Sro.
+- “History of the Letterpress.” Letterpress PLAY, July 9, 2020. https://letterpressplay.com/en-ca/blogs/blog/history-of-the-letterpress. 
+- Iverson, Jana. “The Offset Printing Process: How It Works - Pakfactory Blog.” PakFactory Blog - The go-to academic resource for packaging, September 13, 2023. https://pakfactory.com/blog/what-is-offset-printing/. 
+- Kirvan, Paul. “What Is a Plotter and How Does It Work?” WhatIs, September 1, 2022. https://www.techtarget.com/whatis/definition/plotter. 
+- “Lithography.” Encyclopædia Britannica. Accessed March 27, 2024. https://www.britannica.com/art/printmaking/Lithography. 
+- Mscope. “How Do Printers Work? (Color Laser Printer & Inkjet Printer).” YouTube, August 31, 2021. https://www.youtube.com/watch?v=tDiHTK9nwYw. 
+- Muhammad, Asif. “What Is Offset Printing? Differences between Offset and Digital Printing.” Refine Packaging, March 2, 2024. https://refinepackaging.com/blog/what-is-offset-printing/. 
+- Ng, Steph. “How a Laser Printer Works (Static Electricity).” YouTube, January 29, 2014. https://www.youtube.com/watch?v=_UOU5_4fnzs. 
+- Office Interiors. “Inkjet vs Laser Printers [Pros & Cons].” YouTube, April 11, 2019. https://www.youtube.com/watch?v=drAc_1wm0hE. 
+- “Offset Printing.” Encyclopædia Britannica. Accessed March 27, 2024. https://www.britannica.com/technology/offset-printing. 
+- Porteous, CJ. “Choosing the Perfect Printer: Inkjet vs. Laser - Find out the Costs, Quality, and Best Fit for Your Office.” Office Interiors, November 15, 2023. https://www.officeinteriors.ca/blog/inkjet-vs-laser-printers/. 
+- Simmons, Lee. “Inside Laser Printer Toner: Wax, Static, Lots of Plastic.” Wired, March 23, 2015. https://www.wired.com/2015/03/whats-inside-printer-toner/. 
