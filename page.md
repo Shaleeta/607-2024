@@ -1,5 +1,5 @@
 # Creating a Download Page
-It's time to present your audiobook to the world! Let's create a download page using CSS, Markdown, and HTML. I've created a sample page for you [here](DL.html). Download this html file and open it in your browser. You can find the original .md file I used [here](DL.md) and the CSS I used [here](css.css).
+It's time to present your audiobook to the world! Let's create a download page using CSS, Markdown, and HTML. I've created a sample page for you [here](DL.html). Download this html file and open it in your browser. You can find the original .md file I used [here](DL.md) and the CSS I used [here](CSS.css).
 
 ### Making Your Own
 1. Write your page information in Markdown (using Sublime Text)
