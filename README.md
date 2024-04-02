@@ -78,6 +78,10 @@ It should already be applied, but if not use code BCITSTU for free tickets!
 
 [**Lecture on Accessible Ebooks**](https://github.com/jmaxsfu/pub607-23/blob/main/3.Ebooks.md)
 
+[**Button Information**](https://shaleeta.github.io/ShaleetaSite/DownloadButtons.html) 
+
+
+
 <br> </br>
 
 ## Audio Resources
