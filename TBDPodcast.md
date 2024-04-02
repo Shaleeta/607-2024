@@ -73,7 +73,8 @@ Recording notes:
 
 ### Listening session: March 25
 
-- Listened together and noted places to make small edits. 
+- Listened together and noted places to make small edits.
+- Realized that our voices sound very similar! 
 - Contemplating removing the ad to reduce the length.
 - Identified some background and additional noises that would be dieally edited out (tapping the mic, breathing, etc). Tbd if these can be edited!
 - Discussed creating an image to brand our podcast, and the need for a short write-up. 
