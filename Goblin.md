@@ -86,3 +86,8 @@ I have edited all the audio clips and added the sound effects and background noi
 I thought of adding more sound effects and background music but I didn't want it to be too distracting. 
 
 My next issue for this week is to focus on putting together the audiobook cover and audio.📖🎵
+
+
+## Week 5 - April 2nd
+
+The final step is making the download page which I think will be quite challenging I'm already confused by it but I'll figure it out. 
