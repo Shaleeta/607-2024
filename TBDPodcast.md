@@ -78,3 +78,6 @@ Recording notes:
 - Identified some background and additional noises that would be dieally edited out (tapping the mic, breathing, etc). Tbd if these can be edited!
 - Discussed creating an image to brand our podcast, and the need for a short write-up. 
 
+### Editing: March 30/31
+
+This weekend we edited our podcast. We prioritized getting the length down to about 10 minutes by removing long drawn out pauses and "uhms" (which Rebecca now knows the exact shape of an "uhm" sound wave!). This was successful! Once we cut down the length we worked on the actual sound. Some of the sound issues within the recording included rubbing the mic, inconsistant volume due to mic moving closer or further from our mouths.
