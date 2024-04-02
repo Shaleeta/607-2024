@@ -41,6 +41,8 @@ It should already be applied, but if not use code BCITSTU for free tickets!
 
 [**Word File of Stock/AI Links**](https://docs.google.com/document/d/1wCIllY6u68wQx3-F_EYJJ6umhL5V4fjKI5HDubwrd1U/edit?usp=sharing)
 
+[**Colour Lecture Slides**](https://www.canva.com/design/DAGApGLBE2Y/jwSgBhs9l7-J-qalExnIgg/edit?utm_content=DAGApGLBE2Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 [**What Next?**](Next.md)
 
 [**Create a Download Page**](page.md) 
