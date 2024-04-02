@@ -23,6 +23,16 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 <br> </br>
 
+
+### Presentation Order:
+
+- Little Duck: 2:05PM
+- TBD Podcast: 
+- The Outsiders
+- Team Goblin
+
+
+
 ## Resources
 
 [**Schedule**](Schedule.md)
