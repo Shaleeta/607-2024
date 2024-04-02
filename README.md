@@ -35,6 +35,9 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 
 
+<br>
+<br>
+
 ## Resources
 
 [**Schedule**](Schedule.md)
