@@ -25,11 +25,13 @@ This course presents both *theory* and *practice* so that you may come to an und
 
 
 ### Presentation Order:
+(5-10 minute break in between)
 
-- Little Duck: 2:05PM
-- TBD Podcast: 
-- The Outsiders
-- Team Goblin
+- Welcome: 2:15PM
+- Little Duck: 2:25PM
+- TBD Podcast: 2:50PM
+- The Outsiders: 3:15PM
+- Team Goblin: 3:40PM
 
 
 
