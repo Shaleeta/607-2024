@@ -82,3 +82,16 @@ Recording notes:
 ### Editing: March 30/31
 
 This weekend we edited our podcast. We prioritized getting the length down to about 10 minutes by removing long drawn out pauses and "uhms" (which Rebecca now knows the exact shape of an "uhm" sound wave!). This was successful! Once we cut down the length we worked on the actual sound. Some of the sound issues within the recording included rubbing the mic, breathing and inconsistant volume due to mic moving closer or further from our mouths. While volume issues are simple fixes, removing ongoing and overlapping sounds is quite difficult. We used the waveform to attempt to errase the rubbing sound and had varying success with this. Removing the loud breaths between words was also a simple task. 
+
+### Notes For Presentation
+
+Some of the pieces we should cover in our discussion:
+- Recording set up, where we recorded, what we did to the space/why
+- Originally tried to record directly into the computer with the newer/video zoom mic but this created a buzzing sound in the recordings, switched to the original zoom mic
+- Originally recording into seperate ears, but wanting to record stereo/figuring that out
+- Not being able to record on different channels (both microphones recorded into the same channel)
+- Not breathing while speaking and gasping for air between sentances (possible examples)
+- Mic scratching (possible examples), wave form and removal of scratching (image)
+- "Ums" removing
+- Air pops (possible examples)
+- Inconsistent mic location (possible examples)
