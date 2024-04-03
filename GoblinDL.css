@@ -1,6 +1,6 @@
 
 body {
-    background: light pink;
+    background: pink;
     font-family: Noto Sans;
 }
 
@@ -56,5 +56,5 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 260px;
+  width: 2600px;
 }
