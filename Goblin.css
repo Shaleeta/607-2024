@@ -1,37 +1,37 @@
 body {
-    background: Pink;
+    background: pink;
     font-family: Noto Sans;
 }
  
 
 h1 {
-    font-family: Noto Sans, Helvetica, Arial;
+    font-family: Noto Sans;
     font-size: 48px;
     margin: 25px;
     margin-right: 25px;
     text-indent: 0em;
     text-align: center;
-    color: Green;
+    color: green;
 
 
 
 }
 
 h2 {
-    font-family: Noto Sans, Helvetica, Arial;
+    font-family: Noto Sans;
     font-size: 24px;
     text-align: center;
     margin: 25px;
         margin-right: 25px;
     text-indent: 0em;
-    color: Green;
+    color: green;
 
 
 
 }
 
 h3 {
-    font-family: Noto Sans, Helvetica, Arial;
+    font-family: Noto Sans;
     font-size: 20px;
     color: green;
     text-align: center;
