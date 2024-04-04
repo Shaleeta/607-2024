@@ -1,10 +1,7 @@
 body {
+    background: white;
     font-family: Noto Sans;
 }
-background {
-        background-color: #DB7093;
-        color: white;
-    }
  
 
 h1 {
