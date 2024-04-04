@@ -1,9 +1,21 @@
-
 body {
     background: white;
     font-family: Noto Sans;
 }
+.backgroundColor {
+        background-color: #DB7093;
+        color: white;
+    }
+    .backgroundGradient {
+        background: linear-gradient(to bottom, white, #DB7093);
+        color: white;
+    }
 
+    .lighterColor {
+        background: #E59AB3;
+    }
+    .darkerColor {
+        background: #994E66;
 
 h1 {
     font-family: Noto Sans, Helvetica, Arial;
