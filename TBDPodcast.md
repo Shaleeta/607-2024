@@ -86,6 +86,7 @@ This weekend we edited our podcast. We prioritized getting the length down to ab
 ### Notes For Presentation
 
 Some of the pieces we should cover in our discussion:
+- Creating a Podcast and needing content
 - Recording set up, where we recorded, what we did to the space/why
 - Originally tried to record directly into the computer with the newer/video zoom mic but this created a buzzing sound in the recordings, switched to the original zoom mic
 - Originally recording into seperate ears, but wanting to record stereo/figuring that out
