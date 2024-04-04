@@ -1,5 +1,5 @@
 body {
-    background-color: HotPink;
+    background: Pink;
     font-family: Noto Sans;
 }
  
@@ -11,7 +11,7 @@ h1 {
     margin-right: 25px;
     text-indent: 0em;
     text-align: center;
-    color: Pink;
+    color: Green;
 
 
 
@@ -24,7 +24,7 @@ h2 {
     margin: 25px;
         margin-right: 25px;
     text-indent: 0em;
-    color: Pink;
+    color: Green;
 
 
 
