@@ -96,4 +96,7 @@ The final step is making the download page which I think will be quite challengi
 
 This week is presentation week. I managed to fix my download issue by using Google Drive as opposed to .mp3 this worked very well and kept my files separate as I have 2 digital files. My download for html is finally working too! I had issues because I was downloading the file too many times and the download numbers were messing up my files. It is fixed now and I'm happy with the final result. 
 
-I wanted to experiment more with css and customize my page more but I found that I didn't have enough time and it was hard to figure out. In the future I'd like to look more into how I could use css. 
+I wanted to experiment more with css and customize my page more but I found that I didn't have enough time and it was hard to figure out. In the future I'd like to look more into how I could use CSS. 
+
+Here is a link to my [Presentation](file:///C:/Users/USER/Desktop/Goblin%20Presentation.pdf)
+
