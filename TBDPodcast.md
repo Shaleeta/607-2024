@@ -97,6 +97,9 @@ Some of the pieces we should cover in our discussion:
 - Air pops (possible examples)
 - Inconsistent mic location (possible examples)
 
+### Presentation File
+[Presentation File](https://docs.google.com/presentation/d/1Vct4Ysdv_SzrTmRjJusZBtf6oyQ53AkW2Qe_pcuiNL8/edit?usp=sharing) with audio snippets we wish to share. 
+
 ### Final Podcast
 
 https://pinecast.com/listen/fd5f3035-ab2d-49c4-bb2e-5ea4cbc609ab.mp3
