@@ -98,5 +98,5 @@ This week is presentation week. I managed to fix my download issue by using Goog
 
 I wanted to experiment more with css and customize my page more but I found that I didn't have enough time and it was hard to figure out. In the future I'd like to look more into how I could use CSS. 
 
-Here is a link to my [Presentation](file:///C:/Users/USER/Desktop/Goblin%20Presentation.pdf)
+Here is a link to my [Presentation](https://github.com/Shaleeta/607-2024/blob/main/Goblin%20Presentation.pdf)
 
